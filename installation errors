@@ -1,3 +1,5 @@
 Two questions for installation of Tensorflow package:
 1.The existing versions of Tensorflow are only supported by 64-bit system and python in Windows.
 2.pip.py should be ungraded to higher versions by     python3 -m pip install --upgrade pip    command.
+
+Notes:delete venv folds with old configuration info
